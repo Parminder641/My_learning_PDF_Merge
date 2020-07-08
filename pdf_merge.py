@@ -5,7 +5,6 @@ import PyPDF2
 import os
 
 
-# C:\Users\Admin\PycharmProjects\Scripting_with_python\02_pdf_processing\twopage.pdf
 def pdf_merge():
     try:
         address_list = []
